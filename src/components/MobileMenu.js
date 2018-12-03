@@ -15,8 +15,8 @@ const MobileMenu = ({
         backgroundImage: `url(${backgroundImage}`
       }}>
       <div className="logo">
-        <a href="http://jslancer.com" className="simple-text">
-          JSLancer
+        <a className="simple-text">
+          AL
       </a>
       </div>
       <ul className="nav navbar-nav">

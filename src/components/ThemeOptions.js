@@ -80,7 +80,7 @@ class ThemeOptions extends Component {
                 <div className="pull-right">
                   <span className={cx("badge filter", {active: backgroundColor === 'black'})}
                         onClick={() => setBackgroundColor("black")}></span>
-                  <span className={cx("badge filter badge-azure", {active: backgroundColor === 'azure'})}
+                  <span className={cx("badge filter badge-azure active", {active: backgroundColor === 'azure'})}
                         onClick={() => setBackgroundColor("azure")}></span>
                   <span className={cx("badge filter badge-green", {active: backgroundColor === 'green'})}
                         onClick={() => setBackgroundColor("green")}></span>
@@ -88,7 +88,7 @@ class ThemeOptions extends Component {
                         onClick={() => setBackgroundColor("orange")}></span>
                   <span className={cx("badge filter badge-red", {active: backgroundColor === 'red'})}
                         onClick={() => setBackgroundColor("red")}></span>
-                  <span className={cx("badge filter badge-purple active", {active: backgroundColor === 'purple'})}
+                  <span className={cx("badge filter badge-purple ", {active: backgroundColor === 'purple'})}
                         onClick={() => setBackgroundColor("purple")}></span>
                 </div>
                 <div className="clearfix"></div>
