@@ -184,7 +184,7 @@
 }
 
 </style>
-<div id="container1"    style="display:none"   class="container" >
+<div id="container1"    style="display: none;"   class="container" >
     	<div class="row">
 			<div class="col-md-6 col-md-offset-3">
 				<div class="panel panel-login">
@@ -419,7 +419,7 @@
                     			</div>
 
 
- 	<div   id="root"></div>
+ 	<div    id="root"></div>
 
  	<script src="https://www.gstatic.com/firebasejs/5.5.8/firebase.js"></script>
 
@@ -700,9 +700,12 @@ $('#roleathelete').click(function(e) {
 
 
 
-/*  	$('#form-submit').click(function(e) {
+ 	$('#form-submit').click(function(e) {
+
+ 	    $('#container2').css("display",'none');
+        $('#container3').css("display",'block');
   	   // console.log(($("#org").val().length) ,($("#age").val().length) , ($("#Weight").val().length) );
-  	      		if(($("#roleathelete").is(':checked')||$("#rolecoach").is(':checked'))&&($("#Male").is(':checked')||$("#Female").is(':checked')) && ($("#org").val().length>0) &&($("#age").val().length>0) && ($("#Weight").val().length>0) && ($("#Height").val().length>0) )
+  /*	      		if(($("#roleathelete").is(':checked')||$("#rolecoach").is(':checked'))&&($("#Male").is(':checked')||$("#Female").is(':checked')) && ($("#org").val().length>0) &&($("#age").val().length>0) && ($("#Weight").val().length>0) && ($("#Height").val().length>0) )
             {
                 if($("#roleathelete").is(':checked'))
                     var role=true;
@@ -726,8 +729,7 @@ $('#roleathelete').click(function(e) {
               // Begin accessing JSON data here
              if (this.readyState == 4 && this.status == 200) {
                    console.log(this.responseText);
-$('#container2').css("display",'none');
-$('#container3').css("display",'block');
+
 
                       var request4 = new XMLHttpRequest();
                                                                                                                                                  	 request4.onreadystatechange = function () {
@@ -785,10 +787,10 @@ $('#container3').css("display",'block');
 
 
             }
+*/
 
 
-
-          	});*/
+          	})
 
 
   	$('#register-submit').click(function(e) {

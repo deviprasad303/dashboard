@@ -1187,7 +1187,7 @@ class SalesChart extends Component {
 
 
         if(moment(range.endDate).format('YYYY').toString()==='2018') {
-            var endTime = moment(range.startDate).format('MM-DD') + '-2015';
+            var endTime = moment(range.endDate).format('MM-DD') + '-2015';
 
         }
 
@@ -1196,7 +1196,7 @@ class SalesChart extends Component {
             var endTime = moment(range.endDate).format('MM-DD') + '-2016';
         }
 
-
+console.log(startTime,endTime);
 
         if(startTime && endTime && startTime !== endTime )
 this.setState({startTime2:startTime,endTime2:endTime})
@@ -1409,7 +1409,7 @@ if(startTime && endTime && startTime !== endTime )
 
                         datasets: [
                             {
-                                label: 'acwr',
+                                label: 'TSB',
                                 fill: false,
                                 lineTension: 0.1,
                                 backgroundColor: 'brown',

@@ -33,9 +33,7 @@ class Nav extends Component {
                 <li className={this.isPathActive('/components/notifications') ? 'active' : null}>
                   <Link to="/components/notifications">Injury report form</Link>
                 </li>
-                  <li className={this.isPathActive('/components/buttons') ? 'active' : null}>
-                      <Link to="/components/buttons">Injury analysis</Link>
-                  </li>
+
 
 
               </ul>

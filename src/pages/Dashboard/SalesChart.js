@@ -332,7 +332,7 @@ ismulti={false}
 
                         <i style={{marginLeft: 40}} className="fa fa-history"></i> Updated 3 minutes ago
 
-                        <b style={{marginLeft: 40, fontSize: 20}}>Hear Rate</b>
+                        <b style={{marginLeft: 40, fontSize: 20}}>Heart Rate</b>
                     </div>
                 </div>
 

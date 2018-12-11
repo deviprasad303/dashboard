@@ -54,14 +54,7 @@ class Selectv extends React.Component {
 
 
         return (
-            <Select
-                value={this.props.selectedOption}
-                onChange={this.props.handleselectChange}
-                options={this.props.options}
-                placeholder='Select atheletes..'
-                isMulti={this.props.ismulti}
-                isSearchable={true}
-            />
+           <div></div>
         );
     }
 }

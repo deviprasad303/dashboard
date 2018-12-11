@@ -142,7 +142,7 @@ const initialState = {
             setInterval(() => {
             database.ref(`/users/`).once('value').then(snapshot => {
 
-                console.log(this.state.selectedOption)
+               // console.log(this.state.selectedOption)
                 if(snapshot.val()) {
                    // console.log(snapshot.val()['2134225533'].heart_rate);
                     localStorage.setItem('steps',snapshot.val()[this.state.selectedOption.value].no_of_steps)

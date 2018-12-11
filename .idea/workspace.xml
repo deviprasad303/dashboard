@@ -2,149 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a7d95c1-8942-4e53-a4c0-6d97f0c20eed" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/components/Account/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/App/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/App/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Home/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Landing/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Navigation/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/PasswordChange/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/PasswordForget/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Session/AuthUserContext.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Session/withAuthentication.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Session/withAuthorization.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/SignIn/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/SignOut/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/SignUp/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/constants/routes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firebase/auth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firebase/db.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firebase/firebase.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/firebase/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/registerServiceWorker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/styles/base/custom.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firebase/auth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firebase/db.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firebase/firebase.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/firebase/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Account/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/App/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/App/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Dashboard/Bar2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Dashboard/Emoji Diet Nutritional Data (g) - EmojiFoods (g).csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Dashboard/Gamefrequency.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Dashboard/Radargraph.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Dashboard/ReactGuage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Dashboard/SelectFood.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Dashboard/Selectv.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Dashboard/Weightchange.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Dashboard/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Events.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Home/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Landing/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Navigation/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/PasswordChange/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/PasswordForget/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Session/AuthUserContext.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Session/withAuthentication.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Session/withAuthorization.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Sessionanal/Bar2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Sessionanal/EmailChart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Sessionanal/Emoji Diet Nutritional Data (g) - EmojiFoods (g).csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Sessionanal/Gamefrequency.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Sessionanal/HumanHeatmap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Sessionanal/Radargraph.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Sessionanal/ReactGuage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Sessionanal/SalesChart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Sessionanal/SelectFood.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Sessionanal/Selectv.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Sessionanal/Tasks.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Sessionanal/UserBehaviorChart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Sessionanal/Weightchange.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Sessionanal/ddd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Sessionanal/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Sessionanal/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/SignIn/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/SignOut/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/SignUp/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/dates.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/routes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AUTHORS" beforeDir="false" afterPath="$PROJECT_DIR$/AUTHORS" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/eslint/lib/rules/no-console.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/eslint/lib/rules/no-console.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/faker/locale/.publish/faker.address.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/faker/locale/.publish/faker.address.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/faker/locale/.publish/faker.commerce.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/faker/locale/.publish/faker.commerce.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/faker/locale/.publish/faker.company.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/faker/locale/.publish/faker.company.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/faker/locale/.publish/faker.date.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/faker/locale/.publish/faker.date.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/faker/locale/.publish/faker.finance.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/faker/locale/.publish/faker.finance.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/faker/locale/.publish/faker.hacker.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/faker/locale/.publish/faker.hacker.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/faker/locale/.publish/faker.helpers.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/faker/locale/.publish/faker.helpers.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/faker/locale/.publish/faker.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/faker/locale/.publish/faker.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/faker/locale/.publish/faker.image.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/faker/locale/.publish/faker.image.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/faker/locale/.publish/faker.internet.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/faker/locale/.publish/faker.internet.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/faker/locale/.publish/faker.lorem.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/faker/locale/.publish/faker.lorem.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/faker/locale/.publish/faker.name.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/faker/locale/.publish/faker.name.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/faker/locale/.publish/faker.phone.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/faker/locale/.publish/faker.phone.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/faker/locale/.publish/faker.random.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/faker/locale/.publish/faker.random.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/faker/locale/.publish/faker.system.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/faker/locale/.publish/faker.system.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/faker/locale/.publish/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/faker/locale/.publish/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/faker/locale/.publish/namespaces.list.html" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/faker/locale/.publish/namespaces.list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/faker/locale/.publish/scripts/docstrap.lib.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/faker/locale/.publish/scripts/docstrap.lib.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fixed-data-table/dist/fixed-data-table-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fixed-data-table/dist/fixed-data-table-style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fixed-data-table/dist/fixed-data-table-style.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fixed-data-table/dist/fixed-data-table-style.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fixed-data-table/dist/fixed-data-table.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fixed-data-table/dist/fixed-data-table.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fixed-data-table/dist/fixed-data-table.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fixed-data-table/dist/fixed-data-table.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fixed-data-table/dist/fixed-data-table.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fixed-data-table/dist/fixed-data-table.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fixed-data-table/dist/fixed-data-table.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fixed-data-table/dist/fixed-data-table.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fixed-data-table/internal/cssVar.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/fixed-data-table/internal/cssVar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/moment/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/moment/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/win/libsass.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/node-sass/src/libsass/win/libsass.vcxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-bootstrap-table/dist/react-bootstrap-table.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-bootstrap-table/dist/react-bootstrap-table.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-bootstrap/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-bootstrap/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-dev-utils/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-dev-utils/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-dev-utils/WebpackDevServerUtils.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-dev-utils/WebpackDevServerUtils.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-dev-utils/clearConsole.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-dev-utils/clearConsole.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-dev-utils/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-dev-utils/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert/dist/sweetalert.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/sweetalert/dist/sweetalert.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert/themes/facebook/facebook.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/sweetalert/themes/facebook/facebook.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sweetalert/themes/facebook/facebook.scss" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/sweetalert/themes/facebook/facebook.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/start.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/start.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/checkbox-2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/checkbox-2.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/checkbox-check.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/checkbox-check.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/radio-2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/radio-2.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/styles/base/_buttons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/styles/base/_buttons.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/styles/base/_chartist.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/styles/base/_chartist.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/styles/base/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/styles/base/_footer.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/styles/base/_sidebar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/styles/base/_sidebar.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/styles/base/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/styles/base/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/styles/base/mixins/_chartist.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/styles/base/mixins/_chartist.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/MobileMenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/MobileMenu.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/SideBar/Nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SideBar/Nav.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/SideBar/UserInfo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SideBar/UserInfo.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/SideBar/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SideBar/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ThemeOptions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ThemeOptions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Calendar/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Calendar/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Components/Notifications.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Components/Notifications.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/Dashboard/EmailChart.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Dashboard/EmailChart.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/Dashboard/SalesChart.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Dashboard/SalesChart.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Dashboard/Tasks.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Dashboard/Tasks.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Dashboard/UserBehaviorChart.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Dashboard/UserBehaviorChart.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Dashboard/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Dashboard/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Forms/RegularForms/FormElements.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Forms/RegularForms/FormElements.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Forms/RegularForms/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Forms/RegularForms/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Main/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Main/Footer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Main/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Main/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Main/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Main/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/UserProfile/ProfileForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/UserProfile/ProfileForm.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/UserProfile/UserInfo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/UserProfile/UserInfo.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reducers/Auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/Auth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Dashboard/SelectFood.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Dashboard/SelectFood.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Dashboard/Selectv.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Dashboard/Selectv.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Sessionanal/SalesChart.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Sessionanal/SalesChart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Sessionanal/Selectv.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Sessionanal/Selectv.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -156,19 +22,25 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="dashboard" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Selectv.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pages/Dashboard/Selectv.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" lean-forward="true" selection-end-line="68" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-                <element signature="e#822#885#0" />
-                <element signature="e#914#1260#0" />
-                <element signature="e#1033#1130#0" />
-              </folding>
+            <state relative-caret-position="945">
+              <caret line="63" column="35" selection-start-line="63" selection-start-column="35" selection-end-line="63" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Nav.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/SideBar/Nav.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="33" column="80" selection-start-line="33" selection-start-column="80" selection-end-line="33" selection-end-column="80" />
             </state>
           </provider>
         </entry>
@@ -176,8 +48,8 @@
       <file leaf-file-name="Selectv.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pages/Sessionanal/Selectv.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="7" column="42" lean-forward="true" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+            <state relative-caret-position="840">
+              <caret line="58" column="5" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -185,118 +57,65 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2745">
+              <caret line="183" column="1" lean-forward="true" selection-start-line="183" selection-start-column="1" selection-end-line="183" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="SalesChart.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pages/Dashboard/SalesChart.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="65" column="2" lean-forward="true" selection-start-line="65" selection-start-column="2" selection-end-line="65" selection-end-column="2" />
+            <state relative-caret-position="2850">
+              <caret line="228" column="62" lean-forward="true" selection-start-line="228" selection-start-column="62" selection-end-line="228" selection-end-column="62" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
                 <element signature="n#!!block;n#constructor#0;n#SalesChart#0" />
-                <element signature="e#5004#5059#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Radargraph.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pages/Dashboard/Radargraph.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="83" column="5" lean-forward="true" selection-start-line="83" selection-start-column="5" selection-end-line="83" selection-end-column="5" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-                <element signature="e#3232#3287#0" />
-                <element signature="e#3312#4809#0" />
-                <element signature="e#5055#5118#0" />
-                <element signature="e#5801#5856#0" />
-                <element signature="e#5881#7358#0" />
-                <element signature="e#5954#6444#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ReactGuage.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pages/Dashboard/ReactGuage.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Radargraph.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pages/Sessionanal/Radargraph.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="74">
-              <caret line="131" column="14" lean-forward="true" selection-start-line="131" selection-start-column="14" selection-end-line="131" selection-end-column="14" />
-              <folding>
-                <element signature="e#2922#2977#0" />
-                <element signature="e#2893#2956#0" />
-                <element signature="e#2985#3404#0" />
-                <element signature="e#2700#2755#0" />
-                <element signature="e#2780#4228#0" />
-                <element signature="e#2843#3315#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SalesChart.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SalesChart.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pages/Sessionanal/SalesChart.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="1192" lean-forward="true" selection-start-line="1192" selection-end-line="1192" />
+            <state relative-caret-position="91">
+              <caret line="1397" column="77" lean-forward="true" selection-start-line="1397" selection-start-column="77" selection-end-line="1397" selection-end-column="77" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
-                <element signature="e#4433#4505#0" />
-                <element signature="e#4472#4527#0" />
-                <element signature="e#4552#26019#0" />
-                <element signature="e#13090#14344#0" />
-                <element signature="e#14402#15351#0" />
-                <element signature="e#15645#16372#0" />
-                <element signature="e#16434#17597#0" />
-                <element signature="e#17629#18996#0" />
-                <element signature="e#17711#18970#0" />
-                <element signature="e#19028#20396#0" />
-                <element signature="e#19110#20370#0" />
-                <element signature="e#20428#21797#0" />
-                <element signature="e#21829#23196#0" />
-                <element signature="e#23228#24594#0" />
-                <element signature="e#23310#24568#0" />
-                <element signature="e#24627#25996#0" />
+                <element signature="e#4168#30220#0" />
                 <element signature="n#!!block;n#changerange#0;n#SalesChart#0" />
-                <element signature="e#13097#14046#0" />
-                <element signature="e#14340#15067#0" />
-                <element signature="e#15129#16292#0" />
-                <element signature="e#16324#17691#0" />
-                <element signature="e#16406#17665#0" />
-                <element signature="e#17723#19091#0" />
-                <element signature="e#17805#19065#0" />
-                <element signature="e#19123#20492#0" />
-                <element signature="e#20524#21891#0" />
-                <element signature="e#21923#23289#0" />
-                <element signature="e#22005#23263#0" />
-                <element signature="e#13429#13484#0" />
-                <element signature="e#23359#24308#0" />
-                <element signature="e#24363#24505#0" />
-                <element signature="e#25394#26552#0" />
-                <element signature="e#26695#27858#0" />
-                <element signature="e#26765#27840#0" />
-                <element signature="e#28086#29249#0" />
-                <element signature="e#28156#29231#0" />
-                <element signature="e#29477#30640#0" />
-                <element signature="e#30868#32031#0" />
-                <element signature="e#32259#33422#0" />
-                <element signature="e#32329#33404#0" />
-                <element signature="e#33650#34813#0" />
-                <element signature="e#77238#77294#0" />
-                <element signature="e#77319#79058#0" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Bar2.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/Sessionanal/Bar2.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="887">
+              <caret line="109" column="69" lean-forward="true" selection-start-line="109" selection-start-column="69" selection-end-line="109" selection-end-column="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EmailChart.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/Sessionanal/EmailChart.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="firebase.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/firebase/firebase.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -304,29 +123,11 @@
       <file leaf-file-name="EmailChart.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pages/Dashboard/EmailChart.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="144" selection-start-line="144" selection-end-line="144" />
+            <state relative-caret-position="2070">
+              <caret line="144" column="17" selection-start-line="144" selection-start-column="17" selection-end-line="144" selection-end-column="17" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserInfo.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/SideBar/UserInfo.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="22" column="41" lean-forward="true" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/node_modules/react-chartjs-2/es/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="318">
-              <caret line="263" selection-start-line="263" selection-end-line="263" />
             </state>
           </provider>
         </entry>
@@ -344,15 +145,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>https://www.applicationperformance.com/wp-content/uploads/2018/08/achilles-logo.png</find>
-      <find>consol</find>
-      <find>there</find>
-      <find>var tempdata=this.state;</find>
-      <find>.bind(this)</find>
-      <find>handleselectChange</find>
-      <find>bind(this)</find>
-      <find>this.setState</find>
-      <find>newlabel</find>
       <find>setInterval</find>
       <find>teps Covered</find>
       <find>Distance covered</find>
@@ -374,6 +166,15 @@
       <find>forecasted</find>
       <find>-2015</find>
       <find>'-2015</find>
+      <find>get_session_info</find>
+      <find>Plan your diet</find>
+      <find>form-submit</find>
+      <find>form-submit2</find>
+      <find>Hear</find>
+      <find>Injury Analysis</find>
+      <find>acwr</find>
+      <find>firebase</find>
+      <find>steps</find>
     </findStrings>
     <replaceStrings>
       <replace>&lt;i style={{lineHeight:0,marginLeft:127}}</replace>
@@ -425,12 +226,10 @@
         <option value="$PROJECT_DIR$/src/pages/UserProfile/ProfileForm.js" />
         <option value="$PROJECT_DIR$/src/pages/Events.js" />
         <option value="$PROJECT_DIR$/src/pages/Calendar/index.js" />
-        <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/firebase/firebase.js" />
         <option value="$PROJECT_DIR$/src/firebase/firebase.js" />
         <option value="$PROJECT_DIR$/src/pages/Dashboard/reactguage.js" />
         <option value="$PROJECT_DIR$/node_modules/react-multiselect-box/demo/css/index.css" />
-        <option value="$PROJECT_DIR$/src/pages/Dashboard/SelectFood.js" />
         <option value="$PROJECT_DIR$/src/pages/Dashboard/Radar.js" />
         <option value="$PROJECT_DIR$/src/pages/Dashboard/style.css" />
         <option value="$PROJECT_DIR$/node_modules/react-multiselect-box/build/css/index.css" />
@@ -449,13 +248,15 @@
         <option value="$PROJECT_DIR$/src/pages/Sessionanal/index.js" />
         <option value="$PROJECT_DIR$/src/components/SideBar/index.js" />
         <option value="$PROJECT_DIR$/node_modules/chart.js/src/core/core.controller.js" />
-        <option value="$PROJECT_DIR$/src/pages/Dashboard/Selectv.js" />
         <option value="$PROJECT_DIR$/src/components/SideBar/UserInfo.js" />
         <option value="$PROJECT_DIR$/src/pages/Sessionanal/Radargraph.js" />
-        <option value="$PROJECT_DIR$/src/pages/Dashboard/EmailChart.js" />
         <option value="$PROJECT_DIR$/src/pages/Dashboard/Radargraph.js" />
-        <option value="$PROJECT_DIR$/src/pages/Sessionanal/Selectv.js" />
         <option value="$PROJECT_DIR$/src/pages/Dashboard/SalesChart.js" />
+        <option value="$PROJECT_DIR$/src/pages/Dashboard/SelectFood.js" />
+        <option value="$PROJECT_DIR$/src/pages/Dashboard/EmailChart.js" />
+        <option value="$PROJECT_DIR$/src/pages/Sessionanal/Selectv.js" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/src/pages/Dashboard/Selectv.js" />
         <option value="$PROJECT_DIR$/src/pages/Sessionanal/SalesChart.js" />
       </list>
     </option>
@@ -476,10 +277,10 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="714" />
+    <option name="height" value="725" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -496,17 +297,21 @@
             <path>
               <item name="dashboard" type="b2602c69:ProjectViewProjectNode" />
               <item name="dashboard" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dashboard" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dashboard" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="dashboard" type="b2602c69:ProjectViewProjectNode" />
               <item name="dashboard" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dashboard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dashboard" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dashboard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dashboard" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -515,7 +320,7 @@
               <item name="dashboard" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="Sessionanal" type="462c0819:PsiDirectoryNode" />
+              <item name="Dashboard" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -590,27 +395,31 @@
       <workItem from="1543447938826" duration="11904000" />
       <workItem from="1543523322553" duration="65978000" />
       <workItem from="1543780592200" duration="19630000" />
+      <workItem from="1543869755286" duration="2826000" />
+      <workItem from="1544149063497" duration="6838000" />
+      <workItem from="1544296998896" duration="2205000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="283396000" />
+    <option name="totallyTimeSpent" value="295265000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="714" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="725" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7965261" visible="true" weight="0.1437649" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7867299" visible="true" weight="0.1429706" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32741934" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32965517" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="npm" order="2" side_tool="true" />
-      <window_info id="Structure" order="1" sideWeight="0.20347394" side_tool="true" visible="true" weight="0.1437649" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3294509" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Structure" order="1" sideWeight="0.20681265" side_tool="true" weight="0.1429706" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3280255" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" sideWeight="0.21327014" side_tool="true" visible="true" weight="0.1429706" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -623,20 +432,20 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32965517" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25416997" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3284553" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32419354" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3284553" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25416997" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="3" side_tool="true" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -656,13 +465,11 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/pages/Dashboard/Selectv.js</url>
           <line>47</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/pages/Sessionanal/SalesChart.js</url>
           <line>1178</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
@@ -670,20 +477,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/xtemp.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="7" column="93" selection-start-line="7" selection-start-column="93" selection-end-line="7" selection-end-column="93" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/faker/lib/locales/en/app/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/Session/AuthUserContext.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -761,24 +554,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2010">
-          <caret line="134" column="17" selection-start-line="134" selection-start-column="17" selection-end-line="134" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/firebase/firebase.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="36" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/firebase/firebase.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
@@ -806,9 +585,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/react-multi-toggle/example/index.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/react-multi-toggle/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -820,13 +596,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/Dashboard/SelectFood.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="33" column="27" lean-forward="true" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
         </state>
       </provider>
     </entry>
@@ -848,9 +617,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -886,17 +652,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2852">
           <caret line="384" column="18" lean-forward="true" selection-start-line="384" selection-start-column="18" selection-end-line="384" selection-end-column="18" />
-          <folding>
-            <element signature="n#!!block;n#newinjuryclick#0;n#Notifications#0" />
-            <element signature="n#!!block;n#newinjuryclick4#1;n#Notifications#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/SideBar/Nav.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="49" column="29" selection-start-line="49" selection-start-column="21" selection-end-line="49" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -921,9 +676,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -962,9 +714,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3975">
           <caret line="269" column="24" selection-start-line="356" selection-start-column="31" selection-end-line="356" selection-end-column="41" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -972,165 +721,146 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="84" selection-start-line="84" selection-end-line="84" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-            <element signature="n#MessageForm#0" />
-            <element signature="n#MessageList#0" />
-            <element signature="n#MessageBox#0" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/react-chartjs-2/es/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
+        <state relative-caret-position="3870">
           <caret line="263" selection-start-line="263" selection-end-line="263" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/SideBar/UserInfo.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
+        <state relative-caret-position="285">
           <caret line="22" column="41" lean-forward="true" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/Dashboard/EmailChart.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="144" selection-start-line="144" selection-end-line="144" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/Dashboard/Selectv.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-end-line="68" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-            <element signature="e#822#885#0" />
-            <element signature="e#914#1260#0" />
-            <element signature="e#1033#1130#0" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/Dashboard/ReactGuage.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="60">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/Sessionanal/Selectv.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="7" column="42" lean-forward="true" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/Dashboard/SalesChart.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="65" column="2" lean-forward="true" selection-start-line="65" selection-start-column="2" selection-end-line="65" selection-end-column="2" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-            <element signature="n#!!block;n#constructor#0;n#SalesChart#0" />
-            <element signature="e#5004#5059#0" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/Dashboard/Radargraph.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="83" column="5" lean-forward="true" selection-start-line="83" selection-start-column="5" selection-end-line="83" selection-end-column="5" />
+        <state relative-caret-position="1095">
+          <caret line="83" column="5" selection-start-line="83" selection-start-column="5" selection-end-line="83" selection-end-column="5" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
-            <element signature="e#3232#3287#0" />
-            <element signature="e#3312#4809#0" />
-            <element signature="e#5055#5118#0" />
-            <element signature="e#5801#5856#0" />
-            <element signature="e#5881#7358#0" />
-            <element signature="e#5954#6444#0" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/Sessionanal/Radargraph.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="74">
-          <caret line="131" column="14" lean-forward="true" selection-start-line="131" selection-start-column="14" selection-end-line="131" selection-end-column="14" />
+        <state relative-caret-position="1815">
+          <caret line="131" column="14" selection-start-line="131" selection-start-column="14" selection-end-line="131" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Dashboard/SelectFood.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2550">
+          <caret line="124" column="26" lean-forward="true" selection-start-line="124" selection-start-column="26" selection-end-line="124" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xtemp.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="93" selection-start-line="7" selection-start-column="93" selection-end-line="7" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Dashboard/EmailChart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2070">
+          <caret line="144" column="17" selection-start-line="144" selection-start-column="17" selection-end-line="144" selection-end-column="17" />
           <folding>
-            <element signature="e#2922#2977#0" />
-            <element signature="e#2893#2956#0" />
-            <element signature="e#2985#3404#0" />
-            <element signature="e#2700#2755#0" />
-            <element signature="e#2780#4228#0" />
-            <element signature="e#2843#3315#0" />
+            <element signature="e#0#39#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Dashboard/SalesChart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2850">
+          <caret line="228" column="62" lean-forward="true" selection-start-line="228" selection-start-column="62" selection-end-line="228" selection-end-column="62" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+            <element signature="n#!!block;n#constructor#0;n#SalesChart#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2745">
+          <caret line="183" column="1" lean-forward="true" selection-start-line="183" selection-start-column="1" selection-end-line="183" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Sessionanal/Selectv.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="58" column="5" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Dashboard/Selectv.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="63" column="35" selection-start-line="63" selection-start-column="35" selection-end-line="63" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/SideBar/Nav.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="80" selection-start-line="33" selection-start-column="80" selection-end-line="33" selection-end-column="80" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/Sessionanal/SalesChart.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="1192" lean-forward="true" selection-start-line="1192" selection-end-line="1192" />
+        <state relative-caret-position="91">
+          <caret line="1397" column="77" lean-forward="true" selection-start-line="1397" selection-start-column="77" selection-end-line="1397" selection-end-column="77" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
-            <element signature="e#4433#4505#0" />
-            <element signature="e#4472#4527#0" />
-            <element signature="e#4552#26019#0" />
-            <element signature="e#13090#14344#0" />
-            <element signature="e#14402#15351#0" />
-            <element signature="e#15645#16372#0" />
-            <element signature="e#16434#17597#0" />
-            <element signature="e#17629#18996#0" />
-            <element signature="e#17711#18970#0" />
-            <element signature="e#19028#20396#0" />
-            <element signature="e#19110#20370#0" />
-            <element signature="e#20428#21797#0" />
-            <element signature="e#21829#23196#0" />
-            <element signature="e#23228#24594#0" />
-            <element signature="e#23310#24568#0" />
-            <element signature="e#24627#25996#0" />
+            <element signature="e#4168#30220#0" />
             <element signature="n#!!block;n#changerange#0;n#SalesChart#0" />
-            <element signature="e#13097#14046#0" />
-            <element signature="e#14340#15067#0" />
-            <element signature="e#15129#16292#0" />
-            <element signature="e#16324#17691#0" />
-            <element signature="e#16406#17665#0" />
-            <element signature="e#17723#19091#0" />
-            <element signature="e#17805#19065#0" />
-            <element signature="e#19123#20492#0" />
-            <element signature="e#20524#21891#0" />
-            <element signature="e#21923#23289#0" />
-            <element signature="e#22005#23263#0" />
-            <element signature="e#13429#13484#0" />
-            <element signature="e#23359#24308#0" />
-            <element signature="e#24363#24505#0" />
-            <element signature="e#25394#26552#0" />
-            <element signature="e#26695#27858#0" />
-            <element signature="e#26765#27840#0" />
-            <element signature="e#28086#29249#0" />
-            <element signature="e#28156#29231#0" />
-            <element signature="e#29477#30640#0" />
-            <element signature="e#30868#32031#0" />
-            <element signature="e#32259#33422#0" />
-            <element signature="e#32329#33404#0" />
-            <element signature="e#33650#34813#0" />
-            <element signature="e#77238#77294#0" />
-            <element signature="e#77319#79058#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Sessionanal/Bar2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="887">
+          <caret line="109" column="69" lean-forward="true" selection-start-line="109" selection-start-column="69" selection-end-line="109" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/Sessionanal/EmailChart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/firebase/firebase.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>

@@ -115,6 +115,7 @@ class SelectFood extends Component {
                     <b>Total Fat:</b>{this.state.fat}
 
             </div>
+                <button className='btn btn-primary' style={{position:'absolute',bottom:'48px',left:'195px'}}>Submit</button>
             </div>
 
         )
